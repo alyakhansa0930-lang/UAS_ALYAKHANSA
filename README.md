@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 Nama: Alya Khansa
 
 ## Output Aplikasi
-![Daftar Chat](./screenshots/output_list.png)
-![Detail Chat](./screenshots/output_chat.png)
+![Daftar Chat](./screenshots/output_awal.png)
+![Detail Chat](./screenshots/output_akhir.png)
